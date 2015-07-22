@@ -1,15 +1,16 @@
 Pacman by David Reilly
 ======================
 With contributions by Andy Sommerville (2007)
+The “Pac-Man” as one of my favorite game is now here. The arcade game is considered one of the classics of the medium, virtually synonymous with video games  - so here it is!
 
+![Screenshot - 16x16 tile version](http://www.twinfinite.net/wp-content/uploads/2015/03/pac-man-logo1.jpg)
 Github project page:
-https://github.com/greyblue9/pacman-python
+[python](https://github.com/greyblue9/pacman-python)
 
 Personal project page:
-http://pinproject.com/pacman/pacman.htm
-
+[pacman](http://pinproject.com/pacman/pacman.htm)
+[unsecuredloans4u.co.uk](http://www.unsecuredloans4u.co.uk)
 ![Screenshot - 16x16 tile version](/screenshot-1.png)
-
 
 Thank you for your interest in my tribute to everyone's favorite Pac-Man games
 of yesteryear! Pacman features 12 colorful levels of varying sizes, bouncing
